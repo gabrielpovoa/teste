@@ -1,0 +1,24 @@
+{
+    "name": "web_scrapper",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "dev": "nodemon -e mustache,json,ts src/serve.ts"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/gabrielpovoa/teste.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/gabrielpovoa/teste/issues"
+    },
+    "homepage": "https://github.com/gabrielpovoa/teste#readme",
+    "dependencies": {
+        "axios": "^0.27.2"
+    }
+}
